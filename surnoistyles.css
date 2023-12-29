@@ -1,0 +1,67 @@
+
+
+.main{
+    margin-top: 25px;
+    margin-left: 150px;
+    display: flex;
+    font-size: medium;
+      
+}
+
+.main a{
+    text-decoration: none;
+}
+
+.submain{
+    margin-top: 25px;
+    margin-left: 150px;
+    display: flex;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.purpose{
+    padding-left: 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hands{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+    
+}
+
+.container3{
+    background-image: url(images/bgimg.webp);
+    
+
+}
+
+.cards{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: x-large;
+    padding-left: 150px;
+    padding-top: 20px;
+    
+}
+
+
+.container4{
+    background-image: url(images/contact.png);
+
+}
+
+.buttom{
+    display: grid;
+    grid-template-columns: 1.75fr 1.25fr;
+    padding-top: 50px;
+    padding-left: 150px;
+    
+}
+
